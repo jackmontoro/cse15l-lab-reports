@@ -2,7 +2,7 @@
 ## Lab1 Setup Help
 Setting up VSCode java is **not** always *intuitive*, so I am creating this handy guide to help set up. 
 [Link](https://jackmontoro.github.io/cse15l-lab-reports/content.html)
-![Image](Screen_Shot_2022-01-12_at_2.52.48_PM.png)
+![Image](Lab2Screenshot.png)
 The objective here is to:
 * Get familiar with VSCode and ssh
 * Feel confident using the VSCode IDE
