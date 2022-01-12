@@ -12,3 +12,6 @@ To this end we will:
 1. Introduce ourselves to the group
 2. Post a screenshot of our VSCode homepage to demonstrate that it is working
 3. Access ieng6 remotely through ssh and post a screenshot
+
+
+Hey, Soul Sista, aint that mista mista on the radio stereo
