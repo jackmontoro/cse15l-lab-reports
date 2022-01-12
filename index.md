@@ -5,7 +5,7 @@ Setting up VSCode java is **not** always *intuitive*, so I am creating this hand
 ![Image](Lab2Screenshot.png)
 The objective here is to:
 * Get familiar with VSCode and ssh
-* Feel confident using the VSCode IDE
+* Feel confident using the VSCode IDE\n
 To this end we will:
 1. Introduce ourselves to the group
 2. Post a screenshot of our VSCode homepage to demonstrate that it is working
