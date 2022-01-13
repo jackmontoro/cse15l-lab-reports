@@ -14,4 +14,4 @@ To this end we will:
 3. Access ieng6 remotely through ssh and post a screenshot
 
 
-Hey, Soul Sista, aint that mista mista on the radio stereo
+
