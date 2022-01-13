@@ -1,7 +1,7 @@
 # Hewwo Worwd UWU 
 ## Lab1 Setup Help
 Setting up VSCode java is **not** always *intuitive*, so I am creating this handy guide to help set up. 
-[Link](lab1writeup.mdl)
+[Link](lab-report-1-week-2.mdl)
 ![Image](Lab2Screenshot.png)
 The objective here is to:
 * Get familiar with VSCode and ssh
