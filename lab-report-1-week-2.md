@@ -30,7 +30,7 @@ There will be instructions on installation once you get to the VSCode download w
 Once installed the environment will look something like this, but you will probably see a welcome message:
 ![VSCode Screenshot](Lab2Screenshot.png)
 
-When you have VSCode up and running, you can log into the ieng6 remote serve using the following ssh command:
+When you have VSCode up and running, you can log into the ieng6 remote server using the following ssh command:
 
 > $ ssh cs15lwi22zz@ieng6.ucsd.edu
 
