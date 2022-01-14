@@ -113,3 +113,9 @@ $ scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys
 When you have completed this, your output should look something like this:
 ![sshKeygen](sshKeyScreenshot.png)
 
+
+You can make remote running even easier now by typing commands on the same line as your ssh command like this:
+`$ ssh cs15lwi22@ieng6.ucsd.edu "ls"`
+
+You can also run multiple commands on each line by adding a semicolon. If these commands share a line with ssh, make sure they are within quotation marks:
+`$ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
