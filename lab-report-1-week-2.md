@@ -33,6 +33,7 @@ When you have VSCode up and running, you can log into the ieng6 remote serve usi
 The terminal will ask you for your password that you set up on your course account, so type that in and press enter. As stated previously, your password info could take up to 15 minutes to update from the time you changed it.
 
 Once you enter your password, your output should look like this:
+
 ![ssh](sshScreenshot.png)
 
 Now, you can run some commands! Here are a few you can try:
