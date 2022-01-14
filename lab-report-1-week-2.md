@@ -65,7 +65,35 @@ In the top-left corner of your screen click File->New File to create a new file 
  scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
  ```
  
+ Log into ieng6 again through ssh and enter ls in the terminal. You will see that the file has indeed been sent to the remote server.
 
+ Now that you have tried out scp, we have a solution for you so that you no longer need to type in your password every time you need to access the remote server ieng6. This is called `ssh-keygen`.
+ 
+ You will run this code in your terminal to set it up:
+ 
+```
+$ ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/joe/.ssh/id_rsa): /Users/joe/.ssh/id_rsa
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /Users/joe/.ssh/id_rsa.
+Your public key has been saved in /Users/joe/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:jZaZH6fI8E2I1D35hnvGeBePQ4ELOf2Ge+G0XknoXp0 joe@Joes-Mac-mini.local
+The key's randomart image is:
++---[RSA 3072]----+
+|                 |
+|       . . + .   |
+|      . . B o .  |
+|     . . B * +.. |
+|      o S = *.B. |
+|       = = O.*.*+|
+|        + * *.BE+|
+|           +.+.o |
+|             ..  |
++----[SHA256]-----+
+```
 
 
 
