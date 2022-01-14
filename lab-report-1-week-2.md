@@ -9,6 +9,10 @@ To this end we will:
 1. Introduce ourselves to the group
 2. Post a screenshot of our VSCode homepage to demonstrate that it is working
 3. Access ieng6 remotely through ssh and post a screenshot
+4. Run some terminal commands
+5. Move files to the UCSD server using scp
+6. Evade passwords by making ssh keys
+7. Demonstrate more efficient methods of remote running
 
 
 Before we get started, you will need to change your password for the student account related to this course in order to make to best use of your time. The system will take around 5-15 minutes to update your password, so it is good to do this as soon as possible. You can access your account by following the link below.
