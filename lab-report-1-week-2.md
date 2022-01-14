@@ -2,7 +2,7 @@
 # Lab1 Report
 The objective here is to:
 * Get familiar with VSCode and ssh
-* Feel confident using the VSCode IDE
+* Demonstrate remote running
 
 
 To this end we will:
@@ -43,6 +43,8 @@ Now, you can run some commands! Here are a few you can try:
 * ls -a
 * cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
 * cat /home/linux/ieng6/cs15lwi22/public/hello.txt
+
+![Command](CommandShot.png)
 
 Once you are done experimenting with commands, you will need to log out of the remote server.
 To do this you can use the Ctrl+D hotkey or run the following command:
