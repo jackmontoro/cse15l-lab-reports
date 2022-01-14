@@ -28,7 +28,7 @@ Once installed the environment will look something like this, but you will proba
 
 When you have VSCode up and running, you can log into the ieng6 remote serve using the following ssh command:
 
-> $ ssh cs15lwi22zz@ieng6.ucsd.ed
+> $ ssh cs15lwi22zz@ieng6.ucsd.edu
 
 The terminal will ask you for your password that you set up on your course account, so type that in and press enter. As stated previously, your password info could take up to 15 minutes to update from the time you changed it.
 
