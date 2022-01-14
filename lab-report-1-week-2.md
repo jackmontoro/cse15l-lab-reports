@@ -95,5 +95,18 @@ The key's randomart image is:
 +----[SHA256]-----+
 ```
 
+Now you will copy the public key created by the code above to the .ssh server via the following code:
+```
+$ ssh cs15lwi22zz@ieng6.ucsd.edu
+<Enter Password>
+# now on server
+$ mkdir .ssh
+$ <logout>
+# back on client
+$ scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys
+# You use your username and the path you saw in the command above
+```
 
+When you have completed this, your output should look something like this:
+![sshKeygen](sshKeyScreenshot.png)
 
