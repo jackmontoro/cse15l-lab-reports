@@ -12,7 +12,7 @@ The above code change resolved the following error message:
 ![ErrorMessage1](MarkdownError1.png)
 
 When the issue was resolved, the program output the following given the above test-file:
-`java MarkdownParse.java test-file-alt.md`
+`[]`
 # Code Change 2
 
 # Code Change 3
