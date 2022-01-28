@@ -3,6 +3,7 @@
 The first test-file I found that could break the code was a test-file with brackets, but no parens. This input type causes the toReturn ArrayList to add a substring with an erroneous index values.
 
 I edited the code from the original Markdown file to resolve this issue:
+![CodeChange1](CodeChange2.png)
 
 The error orginated from this test-file:
 
