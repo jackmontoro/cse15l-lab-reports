@@ -6,10 +6,13 @@ I edited the code from the original Markdown file to resolve this issue:
 ![CodeChange1](CodeChange2.png)
 
 The error orginated from this test-file:
-
+[test-file-alt](https://github.com/ucsd-cse15l-w22/markdown-parse/commit/4b3a6476af9b8452b029b248b3e9bf4f836b5325)
 
 The above code change resolved the following error message:
 ![ErrorMessage1](MarkdownError1.png)
+
+When the issue was resolved, the program output the following given the above test-file:
+`java MarkdownParse.java test-file-alt.md`
 # Code Change 2
 
 # Code Change 3
