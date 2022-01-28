@@ -137,3 +137,6 @@ You can also run multiple commands on each line by adding a semicolon. If these 
 ```
 $ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
 ```
+When you run the command lines above, you should produce the following output:
+
+![RemRunOutput](RemRunOutput.png)
