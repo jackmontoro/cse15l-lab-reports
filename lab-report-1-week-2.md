@@ -58,7 +58,10 @@ Now, you can run some commands! Here are a few you can try:
 
 Once you are done experimenting with commands, you will need to log out of the remote server.
 To do this you can use the Ctrl+D hotkey or run the following command:
-> exit
+
+```
+exit
+```
 
 # Moving Files with scp (Pt. 4)
 
@@ -80,6 +83,8 @@ In the top-left corner of your screen click File->New File to create a new file 
  ```
  
  Log into ieng6 again through ssh and enter ls in the terminal. You will see that the file has indeed been sent to the remote server.
+ 
+ ![scpOutput](scpOutput.png)
  
  # Setting an ssh Key (Pt. 5)
 
