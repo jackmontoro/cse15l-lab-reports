@@ -8,6 +8,8 @@ This code was changed from the original Markdown file to remedy a bug when the f
 
 The program outputs `[cause an error, https://something.com, some-page.html]`.
 
+After I fixed the code, the ouput was `[https://something.com, some-page.html]`.
+
 # Code Change 2
 
 # Code Change 3
