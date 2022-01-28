@@ -8,7 +8,7 @@ The error orginated from this test-file:
 
 
 The above code change resolved the following error message:
-![ErrorMessage1](MardownError1.png)
+![ErrorMessage1](MarkdownError1.png)
 # Code Change 2
 
 # Code Change 3
