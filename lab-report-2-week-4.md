@@ -6,6 +6,8 @@ This code was changed from the original Markdown file to remedy a bug when the f
 
 [testfile1](https://github.com/jackmontoro/markdown-parse/commit/1ed204abaa4bb2bdf70c28d9edb75dfdb0023b65#diff-d902b3a6dba925548b7ea18ffb80dd0c28f1bc45f1d738a5da414273711a4409)
 
+The program outputs `[cause an error, https://something.com, some-page.html]`.
+
 # Code Change 2
 
 # Code Change 3
