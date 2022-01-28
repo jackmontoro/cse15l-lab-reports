@@ -7,7 +7,8 @@ I edited the code from the original Markdown file to resolve this issue:
 The error orginated from this test-file:
 
 
-The above code resolved the following error message:
+The above code change resolved the following error message:
+![ErrorMessage1](MardownError1.png)
 # Code Change 2
 
 # Code Change 3
