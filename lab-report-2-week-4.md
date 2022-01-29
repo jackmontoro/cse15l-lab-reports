@@ -6,7 +6,7 @@ I edited the code from the original Markdown file to resolve this issue:
 ![CodeChange1](CodeChange2.png)
 
 The error orginated from this test-file:
-[test-file-alt](https://github.com/ucsd-cse15l-w22/markdown-parse/commit/4b3a6476af9b8452b029b248b3e9bf4f836b5325)
+[test-file1](https://github.com/ucsd-cse15l-w22/markdown-parse/commit/4b3a6476af9b8452b029b248b3e9bf4f836b5325)
 
 The above code change resolved the following error message:
 ![ErrorMessage1](MarkdownError1.png)
@@ -19,7 +19,7 @@ The next change I made to the markdown file addresses the potential issue of non
 ![CodeChange2](CodeChange1.png)
 This code was changed from the original Markdown file to remedy a bug when the following test-file was run:
 
-[testfile3](https://github.com/jackmontoro/markdown-parse/commit/1ed204abaa4bb2bdf70c28d9edb75dfdb0023b65#diff-d902b3a6dba925548b7ea18ffb80dd0c28f1bc45f1d738a5da414273711a4409)
+[testfile2](https://github.com/jackmontoro/markdown-parse/commit/1ed204abaa4bb2bdf70c28d9edb75dfdb0023b65#diff-d902b3a6dba925548b7ea18ffb80dd0c28f1bc45f1d738a5da414273711a4409)
 
 The program outputs `[cause an error, https://something.com, some-page.html]`.
 
@@ -29,7 +29,7 @@ The last change I made to the markdown file addresses the symptom of an image be
 
 ![CodeChange3](CodeChange3.png)
 
-[testfileimage](https://github.com/ucsd-cse15l-w22/markdown-parse/edit/main/test-file6.md)
+[testfile3](https://github.com/ucsd-cse15l-w22/markdown-parse/edit/main/test-file6.md)
 
 The program will erroneously output `[page.com]`
 
