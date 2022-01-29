@@ -27,7 +27,7 @@ After I fixed the code, the ouput was `[https://something.com, some-page.html]`.
 # Code Change 3
 The last change I made to the markdown file addresses the symptom of an image being confused for a link by MarkdownParse.java. To address this bug in the code, we will have to set restrictions so the program does not interpret `![` as `[`.
 
-![CodeChange3](CodeChange3.md)
+![CodeChange3](CodeChange3.png)
 
 [testfileimage](https://github.com/ucsd-cse15l-w22/markdown-parse/edit/main/test-file6.md)
 
