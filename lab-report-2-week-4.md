@@ -14,11 +14,9 @@ The above code change resolved the following error message:
 When the issue was resolved, the program output the following given the above test-file:
 `[]`
 # Code Change 2
+The next change I made to the markdown file addresses the potential issue of non-url strings after brackets and in parentheses being printed by the file. This output is triggered by placing text inside parentheses after brackets that is not formatted correctly as a link `[sometext] (sometext)` instead of `[link](link)`.
 
-# Code Change 3
-The last change I made to the markdown file addresses the potential issue of non-url strings after brackets and in parentheses being printed by the file. This output is triggered by placing text inside parentheses after brackets that is not formatted correctly as a link `[sometext] (sometext)` instead of `[link](link)`.
-
-![CodeChange3](CodeChange1.png)
+![CodeChange2](CodeChange1.png)
 This code was changed from the original Markdown file to remedy a bug when the following test-file was run:
 
 [testfile3](https://github.com/jackmontoro/markdown-parse/commit/1ed204abaa4bb2bdf70c28d9edb75dfdb0023b65#diff-d902b3a6dba925548b7ea18ffb80dd0c28f1bc45f1d738a5da414273711a4409)
@@ -26,3 +24,13 @@ This code was changed from the original Markdown file to remedy a bug when the f
 The program outputs `[cause an error, https://something.com, some-page.html]`.
 
 After I fixed the code, the ouput was `[https://something.com, some-page.html]`.
+# Code Change 3
+The last change I made to the markdown file addresses the symptom of an image being confused for a link by MarkdownParse.java. To address this bug in the code, we will have to set restrictions so the program does not interpret `![` as `[`.
+
+![CodeChange3](
+
+[testfileimage](
+
+The program will erroneously output `[page.com]`
+
+After I fixed the code the output was `[]`
