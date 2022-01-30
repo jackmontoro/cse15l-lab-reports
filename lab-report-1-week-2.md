@@ -47,12 +47,12 @@ Once you enter your password, your output should look like this:
 
 Now, you can run some commands! Here are a few you can try:
 
-* `cd`  This one allows you to move between directories so you can access files.
-* `ls`  This will provide you with a list of the files within the directory you are currently in
-* `ls -lat`
-* `ls -a`
-* `cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/`
-* `cat /home/linux/ieng6/cs15lwi22/public/hello.txt`
+* ```cd```  This one allows you to move between directories so you can access files.
+* ```ls```  This will provide you with a list of the files within the directory you are currently in
+* ```ls -lat```
+* ```ls -a```
+* ```cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/```
+* ```cat /home/linux/ieng6/cs15lwi22/public/hello.txt```
 
 ![Command](CommandShot.png)
 
