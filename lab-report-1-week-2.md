@@ -86,7 +86,7 @@ In the top-left corner of your screen click File->New File to create a new file 
  
  ![scpOutput](scpOutput.png)
  
- # Setting an ssh Key (Pt. 5)
+# Setting an ssh Key (Pt. 5)
 
  Now that you have tried out scp, we have a solution for you so that you no longer need to type in your password every time you need to access the remote server ieng6. This is called `ssh-keygen`.
  
