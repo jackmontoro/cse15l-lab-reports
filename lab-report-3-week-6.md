@@ -6,4 +6,4 @@ For my option, I elected to copy one of my repositories to a remote server via s
 
 After ssh-ing into my student server, I found that the repository had been copied to the server.
 
-![image](scpResult)
+![image](scpResult.png)
