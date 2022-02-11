@@ -16,7 +16,8 @@ Once I moved to my repository, I used the command ```make test``` to compile and
 ![makeTest](makeTest.png)
 
 # Combining scp, ;, and ssh to copy the whole directory and run the tests in one line
-I was able to condense this entire process down to a single command line as follows: ```scp -r *.java *.md lib/ Makefile cs15lwi22abf@ieng6.ucsd.edu:markdownparse-jackweek5; ssh cs15lwi22abf@ieng6.ucsd.edu "cd markdownparse-jackweek5;make test; make clean; exit"```
+I was able to condense this entire process down to a single command line as follows: 
+```scp -r *.java *.md lib/ Makefile cs15lwi22abf@ieng6.ucsd.edu:markdownparse-jackweek5; ssh cs15lwi22abf@ieng6.ucsd.edu "cd markdownparse-jackweek5;make test; make clean; exit"```
 
 This command produced the following output:
 
