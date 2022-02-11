@@ -10,3 +10,6 @@ Lab Report 2:
 
 >[Link](lab-report-2-week-4.md)
 
+Lab Report 3:
+
+>[Link](lab-report-3-week-6.md)
