@@ -12,4 +12,4 @@ After ssh-ing into my student server, I found that the repository had been copie
 After copying the entire repository to the remote server, I used ssh to log on and ``cd`` to get to my ```markdownparse-jackweek5``` repository.
 Once I moved to my repository, I used the command ```make test``` to compile and run my tests and generate class files.
 
-![image](makeTest)
+![image](makeTest.png)
