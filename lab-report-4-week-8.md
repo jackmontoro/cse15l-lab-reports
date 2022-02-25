@@ -1,6 +1,6 @@
-#Lab Report 4
+# Lab Report 4
 
-#Running Snippet Tests
+# Running Snippet Tests
 
 The output of Snippet 1 should be ```[`google.com,google.com,ucsd.edu]```
 
@@ -13,3 +13,5 @@ according to [commonmark.js](https://spec.commonmark.org/dingus/).
 The tests were implemented in MarkdownParseTest.java as follows:
 
 ![SnippetTests](SnippetTests.png)
+
+# Output for the Other Group's Implementation
