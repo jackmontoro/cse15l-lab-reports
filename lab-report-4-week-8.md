@@ -15,3 +15,9 @@ The tests were implemented in MarkdownParseTest.java as follows:
 ![SnippetTests](SnippetTests.png)
 
 # Output for the Other Group's Implementation
+
+When the above tests were run on the other group's implementation, the following output was displayed:
+
+![OtherTest](OtherTest.png)
+
+# Output for Our Group's Implementation
