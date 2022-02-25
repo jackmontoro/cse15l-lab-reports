@@ -51,4 +51,4 @@ Snippet 2 produced ```[a.com, b.com, a.com, example.com]``` instead of the expec
 
 Snippet 3 produced ```[]``` instead of the expected ```[https://ucsd-cse15l-w22.github.io/]```
 
-There is not any code that I could write to resolve these issues with the snippets given to us because our group's implementation revolves around creating a list of substrings with periods in them to identify as links. The items which are recognized as links by our code are isolated by certain characters, which makes parsing discrepancies in the bracket format rather messy for this implementation.
+There is not any code that I could write to resolve these issues with the snippets given to us in less than 10 lines because our group's implementation revolves around creating a list of substrings with periods in them to identify as links. The items which are recognized as links by our code are isolated by certain characters, which makes parsing discrepancies in the bracket format rather messy for this implementation.
