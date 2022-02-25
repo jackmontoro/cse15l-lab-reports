@@ -11,6 +11,9 @@ After ssh-ing into my student server, I found that the repository had been copie
 
 # Logging into your ieng6 account after doing this and compiling and running the tests for your repository
 After copying the entire repository to the remote server, I used ssh to log on and ``cd`` to get to my ```markdownparse-jackweek5``` repository.
+
+![sshLogin](Login.png)
+
 Once I moved to my repository, I used the command ```make test``` to compile and run my tests and generate class files.
 
 ![makeTest](makeTest.png)
