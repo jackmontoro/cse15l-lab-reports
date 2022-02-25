@@ -25,9 +25,12 @@ When the above tests were run on the other group's implementation, the following
 
 ![OtherTest](OtherTest.png)
 
-Snippet 1 produced ```[url.com, `google.com, google.com]``` instead of the expected ```[`google.com, google.com, ucsd.edu]```.
+Snippet 1 produced ```[url.com, `google.com, google.com]``` instead of the expected 
+
+```[`google.com, google.com, ucsd.edu]```.
 
 Snippet 2 produced ```[a.com)](b.com, a.com(()), example.com]``` instead of the expected 
+
 ```[a.com, a.com(()), example.com]```
 
 Snippet 3 produced ```[]``` instead of the expected ```[https://ucsd-cse15l-w22.github.io/]```
