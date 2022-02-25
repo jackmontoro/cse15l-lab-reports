@@ -13,3 +13,6 @@ Lab Report 2:
 Lab Report 3:
 
 >[Link](lab-report-3-week-6.md)
+
+Lab Report 4:
+>[Link](lab-report-4-week-8.md)
