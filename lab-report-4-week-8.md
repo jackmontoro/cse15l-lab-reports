@@ -9,3 +9,7 @@ The output of Snippet 2 should be ```[a.com,a.com(()),example.com]```
 The output of Snippet 3 should be ```[https://ucsd-cse15l-w22.github.io/]```
 
 according to [commonmark.js](https://spec.commonmark.org/dingus/).
+
+The tests were implemented in MarkdownParseTest.java as follows:
+
+![SnippetTests](SnippetTests.png)
