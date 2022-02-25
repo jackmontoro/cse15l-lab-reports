@@ -1,8 +1,8 @@
 # Lab Report 4
 
 > Repositories
-1. [other group]https://github.com/bimai25/markdown-parse-brandon
-2. [our group]https://github.com/jackmontoro/markdownparse-jackweek5
+1. [other group](https://github.com/bimai25/markdown-parse-brandon)
+2. [our group](https://github.com/jackmontoro/markdownparse-jackweek5)
 
 
 # Running Snippet Tests
