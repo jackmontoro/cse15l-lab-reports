@@ -1,8 +1,10 @@
 # Lab Report 4
 
 > Repositories
-1. https://github.com/bimai25/markdown-parse-brandon
-2. https://github.com/jackmontoro/markdownparse-jackweek5
+1. [other group]https://github.com/bimai25/markdown-parse-brandon
+2. [our group]https://github.com/jackmontoro/markdownparse-jackweek5
+
+
 # Running Snippet Tests
 
 The output of Snippet 1 should be ```[`google.com, google.com, ucsd.edu]```
