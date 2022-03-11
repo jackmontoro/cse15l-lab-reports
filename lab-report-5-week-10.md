@@ -4,3 +4,7 @@ To ascertain the differences between my group's markdown-parse implementation an
 The difference between our two implementations was output as follows:
 
 ![diffOutput](diffOutput.png)
+
+# Test Difference 1:
+
+Our implementation and the instructor implementation differ in the output produced for test-file 194. As we can observe from the picture above, our implementation has no output whereas the instructor implementation outputs ```> [url]```.
