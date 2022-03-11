@@ -7,4 +7,6 @@ The difference between our two implementations was output as follows:
 
 # Test Difference 1:
 
-Our implementation and the instructor implementation differ in the output produced for test-file 194. As we can observe from the picture above, our implementation has no output whereas the instructor implementation outputs ```> [url]```. commonmark.js thinks that neither implementation produces the correct output as it should be, ```my_(url)```.
+Our implementation and the instructor implementation differ in the output produced for test-file 194. As we can observe from the picture above, our implementation has no output whereas the instructor implementation outputs ```> [url]```. 
+
+commonmark.js thinks that neither implementation produces the correct output as it should be, ```my_(url)```.
