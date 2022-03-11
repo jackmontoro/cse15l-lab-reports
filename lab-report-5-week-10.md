@@ -10,3 +10,7 @@ The difference between our two implementations was output as follows:
 Our implementation and the instructor implementation differ in the output produced for test-file 194. As we can observe from the picture above, our implementation has no output whereas the instructor implementation outputs ```> [url]```. 
 
 commonmark.js thinks that neither implementation produces the correct output as it should be, ```my_(url)```.
+
+The problem with the instructor's implementation is that it exclusively seeks string between parentheses. This bug is produced by the following code snippet:
+
+![inimp1](inimp1.png)
