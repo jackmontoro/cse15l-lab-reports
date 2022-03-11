@@ -14,3 +14,7 @@ commonmark.js thinks that neither implementation produces the correct output as 
 The problem with the instructor's implementation is that it exclusively seeks string between parentheses. This bug is produced by the following code snippet:
 
 ![inimp1](inimp1.png)
+
+The problem with our implementation is that it identifies links in the getLinks method through the presence of the ```"]("``` characters consecutively. This is one way to identify links, but a markdownparse should be able to recognize links in other ways. We can see the bug in our implementation in the following code:
+
+![ourimp1](ourimp1.png)
